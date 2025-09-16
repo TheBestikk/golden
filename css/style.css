@@ -24,7 +24,7 @@
 
 .container {
     margin: 0 auto;
-    width: 1400px;
+    width: 942px;
 }
 
 h1,
@@ -55,6 +55,7 @@ button {
     background-color: var(--btn-bg);
     padding: 23px 33px;
     border: none;
+    cursor: pointer;
 }
 
 /* header settings */
